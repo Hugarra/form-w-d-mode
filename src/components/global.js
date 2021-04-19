@@ -22,7 +22,7 @@ body {
   background: ${({ theme }) => theme.navBackground};
   transition: all 0.25s linear;
 }
-.form-input, .form-select {
+.form-control, .form-select {
   background-color: ${({ theme }) => theme.inputBackground};
   color: ${({ theme }) => theme.text};
   border-color: ${({ theme }) => theme.toggleBorder};
