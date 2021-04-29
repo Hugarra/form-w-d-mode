@@ -31,7 +31,6 @@ function Navbar(props) {
                     }}
                     />
                     <span className="navbar-text"> Dark mode </span>
-                    {/* <label className="form-check-label" for="darkModeSwitch">Dark mode</label> */}
                 </div>
             </div>
         </nav>
